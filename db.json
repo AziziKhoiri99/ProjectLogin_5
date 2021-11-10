@@ -1,0 +1,43 @@
+{
+    "Project6": [{
+            "id": 1,
+            "nama": "YAMAHA WR ",
+            "cc": "155 CC",
+            "th": "2019",
+            "harga": "Rp. 37.725.000",
+            "gambar": "https://www.yamaha-motor.co.id/uploads/products/2021100811221757339P98692.png"
+        },
+        {
+            "id": 2,
+            "nama": "CRF RALLY",
+            "cc": "250 CC",
+            "th": "2014",
+            "harga": "Rp. 88,345,000",
+            "gambar": "https://assetcdnendpoint.azureedge.net/uploads/product/thumbnail/thumbnail-crf250rally-upload-4-06082021-090511.png"
+        },
+        {
+            "id": 3,
+            "nama": "CRF 150 L",
+            "cc": "150 CC",
+            "th": "2017",
+            "harga": "Rp. 34,745,000",
+            "gambar": "https://assetcdnendpoint.azureedge.net/uploads/product/thumbnail/thumbnail-motor-new-crf150l-1-25102021-084848.png"
+        },
+        {
+            "id": 4,
+            "nama": "MIO M3 125",
+            "cc": "125 cc",
+            "th": "2018",
+            "harga": "16.750.000",
+            "gambar": "https://www.yamaha-motor.co.id/uploads/products/2021091308185335707H37335.png"
+        },
+        {
+            "id": 5,
+            "nama": "Beat",
+            "cc": "110 CC",
+            "th": "2015",
+            "harga": "Rp. 16,665,000",
+            "gambar": "https://assetcdnendpoint.azureedge.net/uploads/product/thumbnail/thmbnail-upload-3-5-28072021-020243.png"
+        }
+    ]
+}
